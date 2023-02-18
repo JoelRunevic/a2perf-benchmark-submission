@@ -1,2 +1,2 @@
-# rlperf_benchmark_submission
-Template for submitting to the RLPerf benchmark for autonomous agents
+# a2perf-benchmark-submission
+Template for submitting to the A2Perf benchmark for autonomous agents
